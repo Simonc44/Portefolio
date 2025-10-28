@@ -1,73 +1,37 @@
-# Welcome to your Lovable project
+# Hi there, I'm Simon 
 
-## Project info
+I'm a passionate developer and the founder of **CygnisAI**, an innovative platform designed to connect your data and unlock its potential with intelligent AI. My goal is to build intuitive and powerful tools that leverage cutting-edge artificial intelligence to solve real-world problems.
 
-**URL**: https://lovable.dev/projects/6d2090d9-3014-42d3-a240-0f4020d83786
+---
 
-## How can I edit this code?
+<div align="center">
+  <a href="https://cygnis.gt.tc" target="_blank">
+    <img src="https://raw.githubusercontent.com/Simonc44/Portefolio/3ee56e97ba061eb65f4802ef1f1826c89e678c5b/favicon.svg" alt="CygnisAI Logo" width="150">
+  </a>
+</div>
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+### About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6d2090d9-3014-42d3-a240-0f4020d83786) and start prompting.
+- **I’m currently working on:** Leading the development of [CygnisAI](https://github.com/Simonc44/cygnis), focusing on creating a seamless user experience and integrating advanced generative AI models.  
+- **I’m currently learning:** Advanced techniques in Large Language Model (LLM) orchestration, multi-modal generation, and scaling AI applications with serverless technologies.  
+- **I’m looking to collaborate on:** Open-source AI projects, innovative developer tools, and anything that pushes the boundaries of human-computer interaction.  
+- **I’m looking for help with:** Feedback and contributions for CygnisAI to make it even better!  
+- **Ask me about:** AI/ML, Next.js, Firebase, TypeScript, and building SaaS products from the ground up.  
+- **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/simon-chusseau-91541a378/) or follow me on [Instagram](https://www.instagram.com/simonchusseau/).
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### My Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4D88FF?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6d2090d9-3014-42d3-a240-0f4020d83786) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+> "The best way to predict the future is to build it."

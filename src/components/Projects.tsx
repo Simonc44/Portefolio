@@ -33,6 +33,7 @@ const Projects = () => {
       tech: ["Vite", "React", "TypeScript", "Tailwind CSS"],
       links: {
         live: "https://lovable.dev/projects/aa336caf-1947-42db-a892-51067e900890",
+        github: "https://github.com/Simonc44/Procivi",
       },
       gradient: "from-emerald-500 to-teal-600",
     },

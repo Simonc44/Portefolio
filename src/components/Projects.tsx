@@ -23,12 +23,12 @@ const Projects = () => {
     {
       title: "Procivi",
       description:
-        "A modern web application built with cutting-edge technologies, showcasing full-stack development capabilities and responsive design principles.",
+        "L'IA la plus avancée de Google rencontre ton profil LinkedIn pour générer des CV, lettres de motivation et emails personnalisés en 30 secondes. Crée ton CV parfait en un clic.",
       features: [
-        "⚡ Lightning Fast",
-        "🎯 User-Friendly",
-        "📱 Responsive Design",
-        "🔒 Secure",
+        "🤖 IA Google Gemini",
+        "💼 Import LinkedIn",
+        "⚡ Génération en 30s",
+        "📄 CV + Lettres",
       ],
       tech: ["Vite", "React", "TypeScript", "Tailwind CSS"],
       links: {

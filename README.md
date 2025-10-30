@@ -1,4 +1,4 @@
-# Hi there, I'm Simon 
+# Hi there, I'm Simon
 
 I'm a passionate developer and the founder of **CygnisAI**, an innovative platform designed to connect your data and unlock its potential with intelligent AI. My goal is to build intuitive and powerful tools that leverage cutting-edge artificial intelligence to solve real-world problems.
 
